@@ -1,0 +1,6 @@
+scrapper/*.csv
+scrapper/__pycache__
+scrapper/Lib
+scrapper/Include
+scrapper/Scripts
+site/node_modules/
